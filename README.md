@@ -2,7 +2,7 @@
 
 This repository contains my portfolio of embedded systems projects for the STM32F103 microcontroller, based on the ELEC 335 (Digital Systems) lab curriculum at Gebze Technical University.
 
-This collection demonstrates foundational skills in both **ARM Assembly** and **Register-Level C programming** (without HAL libraries).
+This collection demonstrates foundational skills in both **ARM Assembly** and **Register-Level C programming**.
 
 ## Projects
 
