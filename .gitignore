@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+# STM32CubeIDE / Keil / IAR Build outputs
+# Bu klasörler derleme çıktılarıdır ve ASLA yüklenmemelidir.
+/Debug/
+/Build/
+/build/
+
+# Lab 1'in istediği .elf dosyaları da derleme çıktısıdır.
+*.elf
+*.map
