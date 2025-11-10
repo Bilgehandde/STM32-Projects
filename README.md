@@ -1,4 +1,4 @@
-# STM32 Embedded Systems Portfolio
+# STM32F103C8 Embedded Systems 
 
 This repository contains my portfolio of embedded systems projects for the STM32F103 microcontroller, based on the ELEC 335 (Digital Systems) lab curriculum at Gebze Technical University.
 
